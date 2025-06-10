@@ -1,6 +1,6 @@
 Data scientist
 
-### Educaation
+### Education
 
 ### Work Experiance
  - Tangible landscape
